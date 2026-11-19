@@ -114,7 +114,7 @@ I created the following five GET APIs:
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone <github.com/sktechx/Retail_Sales_Pipeline>
 cd Retail_Sales_Pipeline
 ```
 
