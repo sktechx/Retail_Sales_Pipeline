@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.env
+.pytest_cache/
+*.pyc
+/data/raw/*.csv
+/data/processed/*.csv
+
+
+test_connection.py
+test_extract.py
+test_models.py
+test_product_check.py
+test_transform.py

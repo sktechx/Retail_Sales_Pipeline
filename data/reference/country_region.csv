@@ -1,0 +1,44 @@
+country_raw,country_name,region
+Channel Islands,Channel Islands,UK & Ireland
+EIRE,Ireland,UK & Ireland
+United Kingdom,United Kingdom,UK & Ireland
+Austria,Austria,Western Europe
+Belgium,Belgium,Western Europe
+France,France,Western Europe
+Germany,Germany,Western Europe
+Netherlands,Netherlands,Western Europe
+Switzerland,Switzerland,Western Europe
+Cyprus,Cyprus,Southern Europe
+Greece,Greece,Southern Europe
+Italy,Italy,Southern Europe
+Malta,Malta,Southern Europe
+Portugal,Portugal,Southern Europe
+Spain,Spain,Southern Europe
+Denmark,Denmark,Northern Europe
+Finland,Finland,Northern Europe
+Iceland,Iceland,Northern Europe
+Norway,Norway,Northern Europe
+Sweden,Sweden,Northern Europe
+Czech Republic,Czech Republic,Central & Eastern Europe
+Lithuania,Lithuania,Central & Eastern Europe
+Poland,Poland,Central & Eastern Europe
+Bahrain,Bahrain,Middle East
+Israel,Israel,Middle East
+Lebanon,Lebanon,Middle East
+Saudi Arabia,Saudi Arabia,Middle East
+United Arab Emirates,United Arab Emirates,Middle East
+Australia,Australia,Asia-Pacific
+Hong Kong,Hong Kong,Asia-Pacific
+Japan,Japan,Asia-Pacific
+Korea,South Korea,Asia-Pacific
+Singapore,Singapore,Asia-Pacific
+Thailand,Thailand,Asia-Pacific
+Bermuda,Bermuda,North America
+Canada,Canada,North America
+USA,United States,North America
+Brazil,Brazil,Latin America & Caribbean
+West Indies,West Indies,Latin America & Caribbean
+Nigeria,Nigeria,Africa
+RSA,South Africa,Africa
+European Community,Unknown,Unknown
+Unspecified,Unknown,Unknown

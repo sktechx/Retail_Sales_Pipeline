@@ -1,0 +1,13 @@
+stock_code,reason,treatment
+POST,Postage / carriage charge,exclude
+DOT,DOTCOM postage,exclude
+M,Manual adjustment,exclude
+m,Manual adjustment (lower case variant seen in 2011),exclude
+C2,Carriage,exclude
+D,Discount,exclude
+S,Samples,exclude
+BANK CHARGES,Bank charges,exclude
+ADJUST,Stock adjustment,exclude
+AMAZONFEE,Amazon marketplace fee,exclude
+TEST001,Test row - never a real sale,exclude
+TEST002,Test row - never a real sale,exclude
